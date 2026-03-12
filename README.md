@@ -12,7 +12,7 @@
 - 🎓 Completed **12th** from **Devbhumi Public School**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 💻 Passionate about **Software Development**
-- 🚀 Currently improving my skills in **AI, Web Development and Programming**
+- 🚀 Currently improving my skills in **AI, Web Development and Programming, Internet of Things**
 
 ---
 
@@ -41,8 +41,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YOUR_USERNAME"
+  href="www.linkedin.com/in/aman-singh-bisht-2a0107292">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  
 </a>
 </p>
 
