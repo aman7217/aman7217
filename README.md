@@ -41,10 +41,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/aman7217">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  
 </a>
+
+<a href="www.linkedin.com/in/aman-singh-bisht-2a0107292">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
 ---
