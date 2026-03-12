@@ -19,7 +19,7 @@
 ## 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,react,git,github,vscode,html,css" />
 </p>
 
 ---
