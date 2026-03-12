@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/aman-singh-bisht-2a0107292">
+<a href="https://www.linkedin.com/in/aman-singh-bisht-2a0107292?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
